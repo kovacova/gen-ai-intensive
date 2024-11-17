@@ -5,14 +5,12 @@
 *Notes, resources and notebooks from the 5-Day Generative AI Intensive Course w/ Google*
 
 
-<table style="border: none;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td><img src="unit-0-intro/gemini-logo.png" alt="Gemini Logo" width="30%"></td>
     <td><img src="unit-0-intro/kaggle.png" alt="Kaggle Logo" width="30%"></td>
   </tr>
 </table>
-
-<br>
 
 ## Resources 
 
@@ -22,10 +20,8 @@
 
 🔗 [Google AI Studio](https://aistudio.google.com)
 
-<br>
 
 ## About
-
 
 **Day 1: Foundational Models & Prompt Engineering** 
 
