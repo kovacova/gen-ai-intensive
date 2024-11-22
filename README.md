@@ -5,12 +5,11 @@
 *Notes, resources and notebooks from the 5-Day Generative AI Intensive Course w/ Google*
 
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td><img src="unit-0-intro/gemini-logo.png" alt="Gemini Logo" width="30%"></td>
-    <td><img src="unit-0-intro/kaggle.png" alt="Kaggle Logo" width="30%"></td>
-  </tr>
-</table>
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="unit-0-intro/gemini-logo.png" alt="Gemini Logo" width="150">
+  <br> <br>
+  <img src="unit-0-intro/kaggle-logo.png" alt="Kaggle Logo" width="150">
+</div>
 
 ## Resources 
 
